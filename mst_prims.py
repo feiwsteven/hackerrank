@@ -18,6 +18,7 @@ if __name__ == '__main__':
 
         m = int(nms[1])
 
+
         s = int(nms[2])
 
-        # Write Your Code Here
+        # Write Your Code Here asdf
